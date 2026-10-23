@@ -102,6 +102,8 @@ We'd greatly appreciate if you could:
 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, templates and AI-powered theme generator | **BFCM30SS** - 30% off | Ends Dec 2 | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | $10/$20 off | Ends Dec 1 | ✅ |
 | [Webix](https://webix.com/) | JS UI library for developers that gives you rich, production-ready widgets and lets you build full-featured web apps faster. | 15-25% off | Ends Dec 7 | ✅ |
+| [CodedThemes](https://codedthemes.com/) | CodedThemes offers premium and free AI-ready admin dashboard templates, UI kits, and design systems built with popular technologies like React, shadcn/ui, Vue, Angular, Next.js, Tailwind, and many more. | BFCM60 - 60% OFF | Ends Dec 1 | ✅ |
+| [UIAble](https://uiable.com/) | UIAble is an AI-ready library built on top of shadcn/ui, offering a complete design system with beautifully crafted components, blocks, dashboards, templates, and full-page layouts. | UIBFCM50 - 50% OFF | Ends Nov 30 | ✅ |
 
 ## Developer tools
 
