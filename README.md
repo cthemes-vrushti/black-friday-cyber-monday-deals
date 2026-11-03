@@ -124,6 +124,9 @@ We'd greatly appreciate if you could:
 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | **BF2025** - 30% OFF | Nov 25 - Dec 1 | ✅ |
 | [Startup Buffer](https://startupbuffer.com/) | A curated directory that helps founders discover startup resources, tools, and deals to launch and grow their businesses | **BF50** - 50% off | Ends Dec 7 | ✅ |
 | [Webhookify](https://webhookify.io/) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **BLACKFRIDAY2025** - 70% off | Ends Dec 14 | ✅ |
+| [Presentify](https://presentifyapp.com) | Native Mac app to draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom during demos, calls, and tutorials | **PRESENTIFY30** - 30% off ($14 → $9.80, one-time purchase, direct purchase from the website) | Nov 18 - Dec 2 | ✅ |
+| [FaceScreen](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings and video calls on Mac, iPhone, and iPad | **FACESCREEN30** - 30% off ($5.99 → $4.19, one-time purchase, direct purchase from the website) | Nov 18 - Dec 2 | ✅ |
+| [KeyScreen](https://keyscreen.app) | Native Mac app that shows the keys you press on screen, for tutorials, streams, and live demos | **KEYSCREEN30** - 30% off ($5.99 → $4.19, one-time purchase, direct purchase from the website) | Nov 18 - Dec 2 | ✅ |
 
 ## Books for developers and software engineers
 
