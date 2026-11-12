@@ -74,6 +74,7 @@ We'd greatly appreciate if you could:
 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless hacking, and more | **BLKFRI20** – 20% off | Ends Dec 5 | ✅ |
 | [Codeling](https://codeling.dev) | Codeling is an interactive learning platform focused on backend development and Python. Courses cover everything from intro to programming through to linux terminals and REST API's | **BF2025** – 50% off | Ends Dec 1 | ✅ |
 | [CSS Demystified and Beyond CSS](https://www.kevinpowell.co/courses/) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | 40% off | Ends Dec 1 | ✅ |
+| [VantagePoint](https://vantagepoint.enciphers.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm) | Hands-on cybersecurity labs based on real-world vulnerabilities (Web, Mobile, Cloud, Red Teaming, CVEs), with human feedback on every submission and certifications | 70% off all hacking labs & certifications (applied automatically) | Nov 2 - Dec 15 | ✅ |
 
 ## UI kits & Starter kits
 
