@@ -150,6 +150,7 @@ We'd greatly appreciate if you could:
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Ends Dec 31 | ✅ |
 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place | **CXBLACK2025** - 50% off | Ends Dec 3 | ✅ |
 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly) | Ends Dec 5 | ✅ |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing) | YouTube transcripts from a web app, Chrome extension, and REST API, with SRT, VTT, JSON, CSV, Markdown and TXT export | Lifetime access **$149 one-time** (3,000 credits/month, first 100 buyers), or **BF26GYT** - 30% off first year of Annual | Nov 14 – Dec 10, 2026 | ✅ |
 
 ## Design kits
 
