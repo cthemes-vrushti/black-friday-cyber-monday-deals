@@ -150,6 +150,7 @@ We'd greatly appreciate if you could:
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Ends Dec 31 | ✅ |
 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place | **CXBLACK2025** - 50% off | Ends Dec 3 | ✅ |
 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly) | Ends Dec 5 | ✅ |
+| [AGNT](https://agnt.gg/pricing) | Desktop AI agent platform: build agents and workflows that run on your computer or a dedicated cloud instance | **BLACKFRIDAY** - 40% off the first year of yearly plans (Pro $290 → $174, Team $990 → $594) | Ends Nov 30 | ✅ |
 
 ## Design kits
 
